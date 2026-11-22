@@ -2,11 +2,11 @@
 
 | **KRC** | **CARS** |
 | :---: | :---: |
-| https://github.com/user-attachments/assets/2b35494b-f2c4-4d57-8535-9fa82cd6c92c | https://github.com/user-attachments/assets/978a6677-1173-4707-883b-01ef1fc4b997 |
+| https://github.com/user-attachments/assets/2b35494b-f2c4-4d57-8535-9fa82cd6c92c | https://github.com/user-attachments/assets/978a6677-1173-4707-883b-01ef1fc4b997 |  | https://github.com/user-attachments/assets/23e8de54-35be-4df7-b0aa-de63ed4cc913 |
 
 
-<img width="974" height="552" alt="image" src="https://github.com/user-attachments/assets/9dbe56de-d43c-4688-b328-04ae72ce9b07" />
-<img width="1325" height="940" alt="image" src="https://github.com/user-attachments/assets/ed1f9485-0020-42bf-a0f2-145dacfa8c78" />
+
+
 
 # 🏎️ KRC CARS - Lüks Otomotiv & Portföy Yönetim Sistemi / Luxury Automotive & Portfolio Management System
 
