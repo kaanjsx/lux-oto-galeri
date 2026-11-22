@@ -45,7 +45,7 @@ Sistem; ziyaretçilere VIP bir showroom deneyimi sunarken, yönetim paneli üzer
 Projede derin siyah ve KRC Kırmızısı (`#e30613`) renk paleti, cam efektleri ve AOS (Animate On Scroll) kaydırma animasyonları kullanılarak yüksek UI/UX standartları sağlanmıştır.
 
 | **Ana Sayfa & VIP Vitrin** | 
-| --- | --- |
+
 | ![Ana Sayfa](https://github.com/user-attachments/assets/28acb5d0-a12a-44d4-b03e-1f4481e09c36) 
 
 
