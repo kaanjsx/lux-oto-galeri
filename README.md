@@ -125,9 +125,7 @@ Built with a deep black and KRC Red (`#e30613`) color palette, glassmorphism acc
 
 | **Home & VIP Showcase** | **Dynamic Vehicle Inventory** |
 | --- | --- |
-| ![Home](screenshot/home.png) | ![Cars](screenshot/cars.png) |
-| **Admin Control Panel** | **Mobile Hamburger Menu** |
-| ![Admin Panel](screenshot/admin.png) | ![Mobile UI](screenshot/mobile.png) |
+| ![Home](https://github.com/user-attachments/assets/28acb5d0-a12a-44d4-b03e-1f4481e09c36) 
 
 ### 🌟 Key Features
 
