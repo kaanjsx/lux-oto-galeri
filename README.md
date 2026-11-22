@@ -1,5 +1,10 @@
 
-<img width="1711" height="941" alt="image" src="https://github.com/user-attachments/assets/28acb5d0-a12a-44d4-b03e-1f4481e09c36" />
+
+https://github.com/user-attachments/assets/2b35494b-f2c4-4d57-8535-9fa82cd6c92c
+
+
+
+https://github.com/user-attachments/assets/978a6677-1173-4707-883b-01ef1fc4b997
 
 
 # 🏎️ KRC CARS - Lüks Otomotiv & Portföy Yönetim Sistemi / Luxury Automotive & Portfolio Management System
@@ -22,7 +27,7 @@ Projede derin siyah ve KRC Kırmızısı (`#e30613`) renk paleti, cam efektleri 
 
 | **Ana Sayfa & VIP Vitrin** | **Dinamik Araç Envanteri** |
 | --- | --- |
-| ![Ana Sayfa](screenshot/home.png) | ![Araçlar](screenshot/cars.png) |
+| ![Ana Sayfa](https://github.com/user-attachments/assets/28acb5d0-a12a-44d4-b03e-1f4481e09c36) | ![Araçlar](screenshot/cars.png) |
 | **Admin Kontrol Paneli** | **Mobil Hamburger Menü** |
 | ![Admin Panel](screenshot/admin.png) | ![Mobil Arayüz](screenshot/mobile.png) |
 
