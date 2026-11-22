@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/142fc0eb-e07e-49a6-a744-516609294019
 
 ## 🎥 Uygulama Tanıtım Videoları
 
