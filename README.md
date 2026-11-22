@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/142fc0eb-e07e-49a6-a744-516609294019
+
 ## 🎥 Uygulama Tanıtım Videoları
 
 | **KRC** | **CARS** |
@@ -8,8 +12,15 @@
 
 | **KRC** | **CARS** |
 | :---: | :---: |
-| https://github.com/user-attachments/assets/c5f8c657-9a4b-49bc-8c41-e62ff291a7a8 | https://github.com/user-attachments/assets/95a00692-77de-472e-922c-093098ea1694
- 
+| https://github.com/user-attachments/assets/785949e6-fbe3-486d-9cc0-cbd69efdaf8e
+ | https://github.com/user-attachments/assets/6aa669a6-81e3-4991-85ab-9397671b27c5
+
+
+
+
+
+
+
 
 
 
