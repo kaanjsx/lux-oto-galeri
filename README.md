@@ -34,10 +34,6 @@ Projede derin siyah ve KRC Kırmızısı (`#e30613`) renk paleti, cam efektleri 
 - **AOS (Animate On Scroll)** entegrasyonu ile akıcı sayfa geçişleri ve etkileşimli araç kartları
 - Ziyaretçilerin tek tıkla doğrudan satış danışmanlarına ulaşmasını sağlayan hızlı iletişim entegrasyonu
 
-#### 🌐 Çoklu Dil Desteği (TR / EN)
-- Harici çeviri API'lerine ihtiyaç duymadan doğrudan sunucu oturumu (**PHP Session**) üzerinden çalışan sıfır gecikmeli **Türkçe / İngilizce** dil motoru
-- Sağ üst köşedeki `TR | EN` anahtarı ile tüm navigasyon, kurumsal metinler ve arayüz etiketlerinin anlık güncellenmesi
-
 #### 🛠️ Gelişmiş Yönetim Paneli (Admin Dashboard)
 - Yöneticilerin yeni araç ekleyebildiği, mevcut araçların fiyat/kilometre/durum bilgilerini güncelleyebildiği ve envanterden kaldırabildiği kontrol merkezi
 - **Doğrudan Medya Yükleme Motoru:** URL yapıştırma zahmetini ortadan kaldıran; hem masaüstü hem de mobil cihazlardan doğrudan `JPG`, `PNG` ve `WEBP` formatında görsel yükleme desteği
@@ -133,10 +129,6 @@ Built with a deep black and KRC Red (`#e30613`) color palette, glassmorphism acc
 - Real-time dynamic filtering across luxury cars, supercars, SUVs, yachts, and helicopters
 - Smooth scroll transitions and interactive vehicle cards powered by **AOS (Animate On Scroll)**
 - Direct, one-click communication channels connecting prospective buyers with sales consultants
-
-#### 🌐 Bilingual Support (TR / EN)
-- Zero-latency **Turkish / English** language engine powered natively via server-side **PHP Sessions** without external translation APIs
-- Instant switching of navigation menus, corporate copy, and UI labels via the top-right `TR | EN` toggle
 
 #### 🛠️ Advanced Admin Dashboard
 - Centralized control panel to add new vehicles, update pricing/mileage/status details, and remove sold inventory
