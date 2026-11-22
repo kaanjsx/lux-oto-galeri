@@ -4,6 +4,10 @@
 | :---: | :---: |
 | https://github.com/user-attachments/assets/2b35494b-f2c4-4d57-8535-9fa82cd6c92c | https://github.com/user-attachments/assets/978a6677-1173-4707-883b-01ef1fc4b997 |
 
+
+<img width="974" height="552" alt="image" src="https://github.com/user-attachments/assets/9dbe56de-d43c-4688-b328-04ae72ce9b07" />
+<img width="1325" height="940" alt="image" src="https://github.com/user-attachments/assets/ed1f9485-0020-42bf-a0f2-145dacfa8c78" />
+
 # 🏎️ KRC CARS - Lüks Otomotiv & Portföy Yönetim Sistemi / Luxury Automotive & Portfolio Management System
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-RDBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Responsive_UI-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Security](https://img.shields.io/badge/Security-PDO%20%7C%20Bcrypt%20%7C%20Session-red?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
