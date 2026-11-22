@@ -1,8 +1,8 @@
 ## 🎥 Uygulama Tanıtım Videoları
 
+| **Masaüstü VIP Vitrin & Arayüz** | **Admin Paneli & Mobil Deneyim** |
 | :---: | :---: |
 | https://github.com/user-attachments/assets/2b35494b-f2c4-4d57-8535-9fa82cd6c92c | https://github.com/user-attachments/assets/978a6677-1173-4707-883b-01ef1fc4b997 |
-
 
 # 🏎️ KRC CARS - Lüks Otomotiv & Portföy Yönetim Sistemi / Luxury Automotive & Portfolio Management System
 
